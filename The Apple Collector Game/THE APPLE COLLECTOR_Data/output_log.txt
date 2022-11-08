@@ -1,0 +1,88 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1062 MB
+    Driver:   26.20.14048.5000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\215178153_MASULUKE_HP GAME PROJECT\215178153_MASULUKE_HP GAME PROJECT\THE APPLE COLLECTOR_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 3.308800 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19c8 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.484900 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.429200 ms (FindLiveObjects: 0.044500 ms CreateObjectMapping: 0.027800 ms MarkObjects: 0.331700 ms  DeleteObjects: 0.018200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.321700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.542100 ms (FindLiveObjects: 0.051500 ms CreateObjectMapping: 0.028500 ms MarkObjects: 0.410000 ms  DeleteObjects: 0.015800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.545900 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 0.456400 ms (FindLiveObjects: 0.053900 ms CreateObjectMapping: 0.028500 ms MarkObjects: 0.357000 ms  DeleteObjects: 0.014700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.732600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.515200 ms (FindLiveObjects: 0.087800 ms CreateObjectMapping: 0.028700 ms MarkObjects: 0.381600 ms  DeleteObjects: 0.014500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.976100 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 1.334400 ms (FindLiveObjects: 0.109100 ms CreateObjectMapping: 0.046700 ms MarkObjects: 0.586300 ms  DeleteObjects: 0.589400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.327000 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 777.
+Total: 1.126500 ms (FindLiveObjects: 0.132000 ms CreateObjectMapping: 0.046900 ms MarkObjects: 0.484800 ms  DeleteObjects: 0.460500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.052300 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 774.
+Total: 1.207200 ms (FindLiveObjects: 0.101600 ms CreateObjectMapping: 0.048000 ms MarkObjects: 0.516200 ms  DeleteObjects: 0.538900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.830000 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 774.
+Total: 1.170500 ms (FindLiveObjects: 0.100700 ms CreateObjectMapping: 0.049400 ms MarkObjects: 0.559800 ms  DeleteObjects: 0.458600 ms)
+
