@@ -1,0 +1,140 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1062 MB
+    Driver:   26.20.14048.5000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.894 seconds
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1062 MB
+    Driver:   26.20.14048.5000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.179 seconds
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.Core.dll (this message is harmless)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(PMl R3 Graphics (ID=0x98e4)
+    Veesndor:wo\ATI
+    VRAM:     106\Data
+\M  Danaged\System.dll (this me
+ssage is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R3 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1062 MB
+    Driver:   26.20.14048.5000
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\HLALELA\Semester Two\215178153_MASULUKE_HP\Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.085100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3288 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.607600 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.431100 ms (FindLiveObjects: 0.049700 ms CreateObjectMapping: 0.027700 ms MarkObjects: 0.332000 ms  DeleteObjects: 0.016100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 345.
+Total: 0.469800 ms (FindLiveObjects: 0.055000 ms CreateObjectMapping: 0.028400 ms MarkObjects: 0.368400 ms  DeleteObjects: 0.015600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.766300 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 1.221900 ms (FindLiveObjects: 0.098600 ms CreateObjectMapping: 0.047200 ms MarkObjects: 0.511700 ms  DeleteObjects: 0.561300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.279900 ms
+
+Unloading 160 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 17.376101 ms (FindLiveObjects: 0.076300 ms CreateObjectMapping: 0.036600 ms MarkObjects: 0.362900 ms  DeleteObjects: 16.897499 ms)
+
